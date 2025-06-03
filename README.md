@@ -6,8 +6,6 @@ Seçenek 1. Google Colab ile
 
 YOLO modellerini eğitmek için bir Colab not defterine erişmek için aşağıya tıklayın. Özel bir YOLO modelini eğitmeyi, bir görüntü veri kümesini yüklemek ve birkaç kod bloğu çalıştırmak kadar kolay hale getirir.
 
-Colab'da Aç
-
 Seçenek 2. Yerel bir bilgisayarda
 
 NVIDIA GPU ile donatılmış yerel bir bilgisayarda YOLO modellerini eğitme sürecini adım adım anlatan bir makale yazdım. Aşağıdaki bağlantıdan kontrol edebilirsiniz.
